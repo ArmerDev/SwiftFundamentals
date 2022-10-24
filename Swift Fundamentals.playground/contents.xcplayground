@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='raw' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='- About Page - '/>
+        <page name='Creating Constants and Variables'/>
+        <page name='Strings'/>
+        <page name='Integers'/>
+        <page name='Doubles'/>
+        <page name='Booleans'/>
+        <page name='Joining Strings'/>
+        <page name='Arrays'/>
+        <page name='Dictionaries'/>
+        <page name='Sets'/>
+        <page name='Enums'/>
+        <page name='Type Annotations'/>
+        <page name='Conditions'/>
+        <page name='Switch Statements'/>
+        <page name='Ternary Conditional Operator'/>
+        <page name='Loops'/>
+        <page name='Functions'/>
+        <page name='Tuples'/>
+        <page name='Customising Parameter Labels'/>
+        <page name='Default Values for Parameters'/>
+        <page name='Handling Errors in Functions'/>
+        <page name='Closures'/>
+        <page name='Trailing Closure and Shorthand Syntax'/>
+        <page name='Structs'/>
+        <page name='Computed Properties'/>
+        <page name='Property Observers'/>
+        <page name='Custom Initialisers'/>
+        <page name='Access Control'/>
+        <page name='Static Properties and Methods'/>
+        <page name='Classes'/>
+        <page name='Protocols'/>
+        <page name='Extensions'/>
+        <page name='Protocol Extensions'/>
+        <page name='Optionals'/>
+        <page name='Unwrapping Optionals with Gaurd'/>
+        <page name='Nil Coalescing'/>
+        <page name='Optional Chaining'/>
+        <page name='Optional try?'/>
+    </pages>
+</playground>
